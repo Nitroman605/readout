@@ -71,4 +71,4 @@ umts_username=""
 umts_password=""
 
 [http]
-address="http://192.168.8.107:3000/main/recordMain"
+address="http://192.168.1.5:3000/main/recordMain"
